@@ -1,0 +1,7 @@
+/home2/chufansh/dpfile/SparseExt/build/CMakeFiles/rebuild_cache.dir
+/home2/chufansh/dpfile/SparseExt/build/CMakeFiles/edit_cache.dir
+/home2/chufansh/dpfile/SparseExt/build/third_party/pybind11/CMakeFiles/rebuild_cache.dir
+/home2/chufansh/dpfile/SparseExt/build/third_party/pybind11/CMakeFiles/edit_cache.dir
+/home2/chufansh/dpfile/SparseExt/build/src/CMakeFiles/rebuild_cache.dir
+/home2/chufansh/dpfile/SparseExt/build/src/CMakeFiles/edit_cache.dir
+/home2/chufansh/dpfile/SparseExt/build/src/CMakeFiles/_C.dir
